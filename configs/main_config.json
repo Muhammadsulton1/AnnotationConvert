@@ -1,0 +1,15 @@
+{
+  "strategy": {
+    "type": "COCO2YOLO",
+    "directory_to_annotation": "",
+    "output_dir_annotation": "",
+    "convert_segment2bbox": true,
+    "exclude_class": []
+  },
+  "train_test_split": {
+    "split": false,
+    "train_ratio": 0.8,
+    "test_ratio": 0.1,
+    "valid_ration": 0.1
+  }
+}
