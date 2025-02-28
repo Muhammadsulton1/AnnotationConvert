@@ -11,5 +11,8 @@
     "train_ratio": 0.8,
     "test_ratio": 0.1,
     "valid_ration": 0.1
+  },
+  "resize": {
+    "img_size": [640, 640]
   }
 }
